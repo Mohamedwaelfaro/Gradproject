@@ -87,7 +87,7 @@ The app uses **Paymob** for online transactions. The integration is done in the 
 ---
 
 ## 📸 Screenshots
-_Add screenshots or screen recordings here if available._
+
 
 ---
 
