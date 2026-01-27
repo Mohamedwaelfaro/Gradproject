@@ -86,8 +86,9 @@ The app uses **Paymob** for online transactions. The integration is done in the 
 
 ---
 
-## 📸 Screenshots
+## 📸 video for project 
 
+link (https://drive.google.com/file/d/17DZADpmiKZhnf_dzRpi3oJekNsOZkE5L/view?usp=sharing)
 
 ---
 
@@ -95,7 +96,7 @@ The app uses **Paymob** for online transactions. The integration is done in the 
 
 This project was developed as a graduation project by:
 
-- [Your Name] – Mobile App Developer
+- [Mohamed wael] – Mobile App Developer
 - [Your Team Member(s)] – Backend Developer, Designer, etc.
 
 ---
