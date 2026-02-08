@@ -109,5 +109,5 @@ Feel free to connect on [LinkedIn](https://linkedin.com) or email me at [mohamme
 
 ## 🏁 License
 
-MIT License (or specify your own)
+MIT License 
 
