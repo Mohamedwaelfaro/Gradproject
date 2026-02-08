@@ -97,13 +97,13 @@ link (https://drive.google.com/file/d/17DZADpmiKZhnf_dzRpi3oJekNsOZkE5L/view?usp
 This project was developed as a graduation project by:
 
 - [Mohamed wael] – Mobile App Developer
-- [Your Team Member(s)] – Backend Developer, Designer, etc.
+- [] – Backend Developer, Designer, etc.
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://linkedin.com) or email me at [your-email@example.com].
+Feel free to connect on [LinkedIn](https://linkedin.com) or email me at [mohammedwael082@gmail.com].
 
 ---
 
